@@ -2,6 +2,7 @@
 This repository is Python Flask APP for kubernetes or openshift.   
     
 # Requirement for Flask
+* Python >= 3
 * Flask >= 1.1.2   
 
 # Information Container 
