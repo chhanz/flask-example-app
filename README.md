@@ -7,6 +7,7 @@ This repository is Python Flask APP for kubernetes or openshift.
 
 # Container Information
 * DockerHub : [https://hub.docker.com/r/han0495/flask-example-app](https://hub.docker.com/r/han0495/flask-example-app)   
+* Quay.io : [https://quay.io/repository/chhanz/flask-example-app](https://quay.io/repository/chhanz/flask-example-app)   
    
 # Tags
 + `latest` or ` v1`   : This image is build version 1.   
